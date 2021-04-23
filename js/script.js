@@ -16,15 +16,8 @@ var students = [
   },
 ]
 
-var student = {
-  firstName: '',
-  lastName: '',
-  age: ''
-}
-
-
 userStudent(students,);
-//userStudent(students, 'albert','alvisss', 888);
+
 
 for(var index in students){
   var object = students[index]
